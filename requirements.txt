@@ -1,0 +1,7 @@
+numpy>=1.21.0
+opencv-contrib-python>=4.5.0
+psutil>=5.8.0
+requests>=2.25.0
+pytest>=6.2.0
+gpiozero>=1.6.2
+# Note: picamera2 is pre-installed on Raspberry Pi OS 64-bit and is managed via system packages (apt-get install python3-picamera2)
